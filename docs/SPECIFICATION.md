@@ -465,7 +465,6 @@ Copilot can also be implemented with customized parameters:
   }
 }
 ```
-```
 
 The consistent structure across models demonstrates that AMP has model-independent versatility. Despite differences in implementation methods, the basic protocol structure is commonly usable.
 
