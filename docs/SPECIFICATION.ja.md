@@ -482,7 +482,7 @@ AMPは継続的に進化するオープンプロトコルです。実装例、�
 
 詳細な実験結果、データタイプ別の最適化ガイド、モデル別のパラメータ設定については、以下のリソースを参照してください：
 
-- [複数AIモデル間のトークン枯渇特性比較](https://github.com/tQy2015/amp-protocol/blob/main/docs/%20research/token-exhaustion-comparison.md)
+- [複数AIモデル間のトークン枯渇特性比較](https://github.com/tQy2015/amp-protocol/blob/main/docs/research/token-exhaustion-comparison.md)
 
 これらの技術文書では、各モデルでのトークン枯渇パターンと最適な分割戦略を詳細に解説しています。
 
