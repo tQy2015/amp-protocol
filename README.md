@@ -17,7 +17,7 @@ Last Updated: 2025.08.14
 
 The latest documentation and code for the Artifact Migration Protocol (AMP) are now managed in the following repository:
 
-Move to new location: tQy2015/melon - research/ai-llm-studies/context-management/amp-protocol
+[Move to new location: tQy2015/melon - research/ai-llm-studies/context-management/amp-protocol](
 https://github.com/tQy2015/melon/tree/main/research/ai-llm-studies/context-management/amp-protocol)
 
 We apologize for any inconvenience, but please refer to the link above going forward.
