@@ -9,3 +9,16 @@ https://github.com/tQy2015/melon/tree/main/research/ai-llm-studies/context-manag
 
 ご不便をおかけしますが、今後は上記のリンクをご参照ください。
 Last Updated: 2025.08.14
+
+
+# amp-protocol (Moved)
+
+## The contents of this repository have been moved to a new location.
+
+The latest documentation and code for the Artifact Migration Protocol (AMP) are now managed in the following repository:
+
+Move to new location: tQy2015/melon - research/ai-llm-studies/context-management/amp-protocol
+https://github.com/tQy2015/melon/tree/main/research/ai-llm-studies/context-management/amp-protocol)
+
+We apologize for any inconvenience, but please refer to the link above going forward.
+Last Updated: 2025.08.14
